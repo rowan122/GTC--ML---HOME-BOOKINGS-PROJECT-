@@ -36,7 +36,10 @@ It contains information on hotel reservations including booking cancellations, c
 ## 📸 Sample Visualization
 Example of EDA visualization (distribution of cancellations):
 
-![sample chart](path/to/chart.png)
+## Sample Visualization
+Here’s a distribution of cancelled vs non-cancelled bookings:
+
+![Cancellation Distribution](images/cancellation_dist.png)
 
 ## 🚀 Next
 - Train models (LogReg, RandomForest, …) to predict `is_canceled`
